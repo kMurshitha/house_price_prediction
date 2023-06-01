@@ -1,0 +1,17 @@
+body{
+color:white;
+text-align:center;
+}
+h2{
+margin-top:150px;
+font-size:40px;
+}
+h1{
+font-size:60px;
+}
+input[type=submit]{
+background-color:white;
+color:blue;
+cursor:pointer;
+padding: 16px 32px;
+}
